@@ -24,7 +24,7 @@
     int stop = 11;
 
     // : When
-    String outcome = NumberUtilities.getRange(stop);
+    String outcome = NumberUtilities.getRange(stop); for(loop) 
 
     // : Then
     System.out.println(outcome);

@@ -8,7 +8,8 @@
 <br><br><br><br>
 ## `String getRow(int width)`
 * **Description**
-    * In the class, `Triangles` Write a method that returns a `String` representation of a row of asterisks whose length is equal to the `width` specified.
+    * In the class, `Triangles` Write a method that returns a `String` representation of a row of asterisks whose 
+    length is equal to the `width` specified.
     
 ### Example
 * Sample Script
@@ -125,7 +126,7 @@
 * **Description**
     * Given one integer, `n`, generate a `String` representation of a triangle whose base height and width is equal to `n`.
 
-	
+    
 ### Example
 * Sample Script
 

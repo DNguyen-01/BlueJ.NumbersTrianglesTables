@@ -35,7 +35,7 @@ public class TriangleUtilitiesTest {
     @Test
     public void testGetTriangle_ForOneRow() {
         // Given
-        String expected = "*\n";
+        String expected = "*\n"; // \n = translate to new line
 
         // When
         String actual = TriangleUtilities.getTriangle(1);
